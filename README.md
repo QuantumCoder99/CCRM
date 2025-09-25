@@ -1,2 +1,0 @@
-# CCRM
-College Management System
